@@ -1,0 +1,1 @@
+module.exports.breweries = ['Cellarmaker Brewing Company', 'Fieldwork', 'Sante Adarius', 'Black Sands', 'Avarado Street Brewery', 'Fort Point', 'Black Hammer', '21st Amendment', 'Standard Deviant', 'Anchor Brewing', 'Sierra Nevada', 'Rare Barrel', 'Laughing Monk', 'Russian River Brewing Company', 'Moonlight', 'Beryessa']
